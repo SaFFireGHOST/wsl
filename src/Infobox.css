@@ -1,0 +1,26 @@
+/* src/components/InfoBox.css */
+
+.info-box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 2px solid #cb8b2c;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.885);
+    width: 50vw;
+    /* max-width: 600px; */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .info-box p {
+    margin: 5px 0;
+    color: #d7a862;
+    font-size: 14px;
+  }
+  
+  .info-box a {
+    color: #d7a862;
+    text-decoration: underline;
+  }
+  
